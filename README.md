@@ -23,7 +23,7 @@ The Bookshop Management System is a web application designed to simplify the man
 3. Set up the MySQL database.
 4. Configure environment variables for database access and other settings.
 5. Start the backend server with `node server.js`.
-6. Launch the React application with npm start.
+6. Launch the React application with `npm start`.
 7. Access the application through your web browser at the specified port.
 
 ## Usage and screenshots of application functionalities
