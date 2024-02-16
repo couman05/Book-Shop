@@ -20,7 +20,7 @@ The Bookshop Management System is a web application designed to simplify the man
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and install dependencies with npm install.
-3. Set up the MySQL database using the provided schema.
+3. Set up the MySQL database.
 4. Configure environment variables for database access and other settings.
 5. Start the backend server with node server.js.
 6. Launch the React application with npm start.
